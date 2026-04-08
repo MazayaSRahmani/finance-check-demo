@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+rapidfuzz
+reportlab
+google-generativeai
+openpyxl
+PyPDF2
